@@ -2,5 +2,10 @@
 
 ## Scripts
 
-### 4-empty
-This script creates an empty file called `hello`.
+### 5-execute
+This script adds execute permission to the owner of the file `hello`.l
+
+
+
+
+
